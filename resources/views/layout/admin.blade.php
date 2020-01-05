@@ -181,7 +181,8 @@
     <script src="{{asset('/admins/plugins/datatables/jquery.dataTables.min.js')}}"></script>
     <!--[if lt IE 9]>
     <script src="js/libs/excanvas.min.js"></script>
-    <![endif]-->
+    <![endif]-->'
+
     <script src="{{asset('/admins/plugins/flot/jquery.flot.min.js')}}"></script>
     <script src="{{asset('/admins/plugins/flot/plugins/jquery.flot.tooltip.min.js')}}"></script>
     <script src="{{asset('/admins/plugins/flot/plugins/jquery.flot.pie.min.js')}}"></script>
